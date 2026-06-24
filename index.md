@@ -17,9 +17,9 @@ Pharmaceutical chemist specializing in cheminformatics and computer-aided drug d
 
 ### Chemical Databases and Chemoinformatics Characterization
 
-* **NuBBE Database** — Natural products from Brazil. | [DOI](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00619)
-* **BIOFACQUIM** — Natural products from Mexico. | [DOI](https://www.mdpi.com/2218-273X/9/1/31)
-* **Lactam Chemical Space** — Chemical space exploration of lactams. | [DOI](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra04841c)
+- **NuBBE Database** — Natural products from Brazil. | [DOI](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00619)
+- **BIOFACQUIM** — Natural products from Mexico. | [DOI](https://www.mdpi.com/2218-273X/9/1/31)
+- **Lactam Chemical Space** — Chemical space exploration of lactams. | [DOI](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra04841c)
 
 ### Virtual Library Design
 
