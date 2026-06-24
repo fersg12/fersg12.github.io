@@ -1,58 +1,68 @@
-
 [fer.saldivarg@gmail.com](mailto:fer.saldivarg@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fer-sg/) · [ResearchGate](https://www.researchgate.net/profile/Fernanda-Saldivar-Gonzalez-2?ev=hdr_xprf)
 
 ---
-Pharmaceutical chemist specialized in cheminformatics and computer-aided drug design, with a focus on virtual library design, machine learning–driven virtual screening, and ADME-Tox evaluation for drug discovery. Currently, postdoctoral researcher at the Institute for Obesity Research, Tecnológico de Monterrey.
+
+Pharmaceutical chemist specializing in cheminformatics and computer-aided drug design, with expertise in virtual library design, machine learning–driven virtual screening, and ADME-Tox evaluation. Currently postdoctoral researcher at the Institute for Obesity Research, Tecnológico de Monterrey.
 
 ---
 
-## 2. Projects
+## 1. Current Projects
 
-### Development of Chemical Databases and Chemoinformatics Characterization
+**HDDFLYZER** — Traceable and reproducible workflows in molecular descriptor space for CLI and Python.
+[Website](https://nanobiostructuresrg.github.io/hddflyzer/) · [PyPI](https://pypi.org/project/hddflyzer/) · [DOI: 10.5281/zenodo.20707295](https://zenodo.org/records/20707295)
 
+---
 
-- **[NuBBE Database: Natural Products from Brazil](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00619)**.
-- **[BIOFACQUIM: Natural Products from Mexico](https://www.mdpi.com/2218-273X/9/1/31)**.
-- **[Lactam Chemical Space](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra04841c)**.
+## 2. Completed Projects
 
-### Design of Virtual Libraries
+### Chemical Databases and Chemoinformatics Characterization
 
-- **[Antidiabetic Focused Library](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1276444/full)**.
-- **[Diversity-Oriented Synthesis of Lactams](https://www.sciencedirect.com/science/article/abs/pii/S0968089620303680)**.
-- **[De Novo Design of DNMT1 Inhibitors](https://www.mdpi.com/2218-273X/14/7/775)**.
-- **[HIV-1 Protease Inhibitors](https://www.mdpi.com/2218-273X/11/12/1805)**.
+* **NuBBE Database** — Natural products from Brazil. [DOI](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00619)
+* **BIOFACQUIM** — Natural products from Mexico. [DOI](https://www.mdpi.com/2218-273X/9/1/31)
+* **Lactam Chemical Space** — Chemical space exploration of lactams. [DOI](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra04841c)
+
+### Virtual Library Design
+
+* **Antidiabetic Focused Library** — Design of focused libraries for antidiabetic drug discovery. [DOI](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1276444/full)
+* **Diversity-Oriented Synthesis of Lactams** — Exploration of lactam scaffolds. [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0968089620303680)
+* **De Novo Design of DNMT1 Inhibitors** — Computational design of epigenetic inhibitors. [DOI](https://www.mdpi.com/2218-273X/14/7/775)
+* **HIV-1 Protease Inhibitors** — Virtual design of antiviral compounds. [DOI](https://www.mdpi.com/2218-273X/11/12/1805)
 
 ### Virtual Screening and Activity Prediction
 
-- **[Antiviral Compound Prediction](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00037h)** —  Development of predictive models for identifying compounds with antiviral activity (2025).
+* **Antiviral Compound Prediction** — Machine learning models for antiviral activity prediction. [DOI](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00037h)
 
 ---
 
-##3. Online Services:
+## 3. Online Platforms
 
-- **[AlzyFinder Platform](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01481)** — Platform for ligand-based virtual screening and network pharmacology, applied to the discovery of bioactive compounds against Alzheimer's disease-related targets. 
-- **[LigandHub](https://nanobiostructuresrg.github.io/LigandHub/#/)**- Web-based ligand preparation and docking output recovery platform.
-- **ADME-Tox Web Server** —  Evaluation of ADME-Tox (absorption, distribution, metabolism, excretion, and toxicity) properties and the compound prioritization.
+* **AlzyFinder Platform** — Ligand-based virtual screening and network pharmacology for Alzheimer’s-related targets. [Access](http://www.alzyfinder-platform.udec.cl/) [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01481) 
+* **LigandHub** — Web platform for ligand preparation and docking output recovery. [Access](https://nanobiostructuresrg.github.io/LigandHub/#/)
+* **ADME-Tox Web Server** — Evaluation and prioritization of ADME-Tox properties.
 
 ---
 
 ## 4. Educational Materials
 
-- **[First Spanish-Language Cheminformatics Manual](https://ediciones.quimica.unam.mx/index.php/ComiteEditorial/catalog/book/61)** 
-- **[Chemoinformatics-Based Enumeration Tutorial](https://link.springer.com/article/10.1186/s13321-020-00466-z)** 
-- **[GitBook of Chemoinformatics](https://difacquim.gitbook.io/quimioinformatica)**
+* **First Spanish-Language Cheminformatics Manual** — Introductory manual on cheminformatics. [Link](https://ediciones.quimica.unam.mx/index.php/ComiteEditorial/catalog/book/61)
+* **Chemoinformatics-Based Enumeration Tutorial** — Methodological tutorial on chemical enumeration. [DOI](https://link.springer.com/article/10.1186/s13321-020-00466-z)
+* **GitBook of Chemoinformatics** — Open educational resource in chemoinformatics. [Link](https://difacquim.gitbook.io/quimioinformatica)
 
 ---
 
-## 4. Scientific Outreach
-### English:
-- **[You (and your grandkids) are what you eat!](https://kids.frontiersin.org/articles/10.3389/frym.2024.1455482)** — written for a younger general audience.
-- **[Art and Chemical Space](https://link.springer.com/article/10.1186/s13321-023-00770-4)** — 
+## 5. Scientific Outreach
+
+### English
+
+* **You (and your grandkids) are what you eat!** — Educational article for general audiences. [DOI](https://kids.frontiersin.org/articles/10.3389/frym.2024.1455482)
+* **Art and Chemical Space** — Intersection of chemistry and art. [DOI](https://link.springer.com/article/10.1186/s13321-023-00770-4)
+
 ### Spanish
-- **[Desigualdad de género en los datos: Un reto para la Inteligencia Artificial y el diseño de fármacos]**(https://espaciostransnacionales.xoc.uam.mx/espacios-transnacionales-24/).
-- **[Inteligencia artificial en el diseño de fármacos: hacia la inteligencia aumentada. ](https://www.revistas.unam.mx/index.php/req/article/view/83233)**.
-- **[¿Por qué hay que hablar de mujeres en Química Computacional y no sólo de Química Computacional?](https://doi.org/10.29105/cienciauanl26.121-1)**.
-- **[Nuevos usos a medicamentos existentes: el reposicionamiento de fármacos y su importancia en crisis sanitarias](https://entorno.udlap.mx/nuevos-usos-a-medicamentos-el-reposicionamiento-de-farmacos-y-su-importancia-en-crisis-sanitarias/)**. 
-- **[Descubrimiento y desarrollo de fármacos: un enfoque computacional](https://revistas.unam.mx/index.php/req/article/view/63892)**.
+
+* **Desigualdad de género en los datos: Un reto para la IA y el diseño de fármacos** — Perspective on bias in AI-driven drug design. [Link](https://espaciostransnacionales.xoc.uam.mx/espacios-transnacionales-24/)
+* **Inteligencia artificial en el diseño de fármacos: hacia la inteligencia aumentada** — AI in drug discovery. [Link](https://www.revistas.unam.mx/index.php/req/article/view/83233)
+* **¿Por qué hablar de mujeres en Química Computacional?** — Gender perspective in computational chemistry. [DOI](https://doi.org/10.29105/cienciauanl26.121-1)
+* **Reposicionamiento de fármacos en crisis sanitarias** — Drug repurposing in health emergencies. [Link](https://entorno.udlap.mx/nuevos-usos-a-medicamentos-el-reposicionamiento-de-farmacos-y-su-importancia-en-crisis-sanitarias/)
+* **Descubrimiento de fármacos: un enfoque computacional** — Computational drug discovery overview. [Link](https://revistas.unam.mx/index.php/req/article/view/63892)
 
 ---
