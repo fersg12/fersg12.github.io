@@ -8,7 +8,7 @@ Pharmaceutical chemist specializing in cheminformatics and computer-aided drug d
 
 ## Current Projects
 
-**HDDFLYZER** — Traceable and reproducible workflows in molecular descriptor space for CLI and Python.
+- **HDDFLYZER** — Traceable and reproducible workflows in molecular descriptor space for CLI and Python.
 [Website](https://nanobiostructuresrg.github.io/hddflyzer/) [PyPI](https://pypi.org/project/hddflyzer/) | [DOI: 10.5281/zenodo.20707295](https://zenodo.org/records/20707295).
 
 ---
