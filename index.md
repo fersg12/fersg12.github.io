@@ -13,27 +13,6 @@ Pharmaceutical chemist specializing in cheminformatics and computer-aided drug d
 
 ---
 
-## Completed Projects
-
-### Chemical Databases and Chemoinformatics Characterization
-
-- **NuBBE Database** — Natural products from Brazil. | [DOI](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00619)
-- **BIOFACQUIM** — Natural products from Mexico. | [DOI](https://www.mdpi.com/2218-273X/9/1/31)
-- **Lactam Chemical Space** — Chemical space exploration of lactams. | [DOI](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c9ra04841c)
-
-### Virtual Library Design
-
-- **Antidiabetic Focused Library** — Design of focused libraries for antidiabetic drug discovery. | [DOI](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1276444/full)
-- **Diversity-Oriented Synthesis of Lactams** — Exploration of lactam scaffolds. | [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0968089620303680)
-- **De Novo Design of DNMT1 Inhibitors** — Computational design of epigenetic inhibitors. | [DOI](https://www.mdpi.com/2218-273X/14/7/775)
-- **HIV-1 Protease Inhibitors** — Virtual design of antiviral compounds. | [DOI](https://www.mdpi.com/2218-273X/11/12/1805)
-
-### Virtual Screening and Activity Prediction
-
-- **Antiviral Compound Prediction** — Machine learning models for antiviral activity prediction. | [DOI](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00037h)
-
----
-
 ## Online Platforms
 
 - **AlzyFinder Platform** — Ligand-based virtual screening and network pharmacology for Alzheimer’s-related targets. | [Access](http://www.alzyfinder-platform.udec.cl/) | [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01481) 
